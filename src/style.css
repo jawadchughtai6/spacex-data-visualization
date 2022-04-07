@@ -1,0 +1,12 @@
+.ui.selection.dropdown {
+    width: 25% !important;
+}
+
+.vizualization {
+    display: flex;
+    justify-content: space-around;
+}
+
+.visualization-main {
+    margin: 10px 20px;
+}
