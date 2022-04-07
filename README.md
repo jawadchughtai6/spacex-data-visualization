@@ -4,5 +4,5 @@
 
 In the project directory, run the following:
 
-### `npm install`
-### `npm start`
+- `npm install`
+- `npm start`
